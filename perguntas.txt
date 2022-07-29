@@ -1,0 +1,35 @@
+Quantas alteracoes podem ser feitas por um time em um jogo oficial?;
+3;
+2;
+1;
+4;
+3
+|
+Quantos jogadores sao necessarios em uma partida?;
+no minimo 11 e no maximo 17;
+no maximo 11 e no minimo 7;
+no maximo 17 e no minimo 7;
+no minimo 7 e no maximo 10;
+no maximo 11 e no minimo 7
+|
+Quanto tempo de duracao tem uma partida no total?;
+menos de 90 minutos;
+45 minutos;
+15 minutos;
+90 minutos podendo ser mais;
+90 minutos podendo ser mais
+|
+Quando é marcado um pênalti?;
+Quando um jogador realiza uma agressaoa outro;
+Quando ocorre uma falta anti desportiva;
+Quando ocorre uma falta da grande área;
+Quando o jogador deixa a bola sai do campo;
+Quando ocorre uma falta da grande área
+|
+O que acontece quando um jogador recebe dois cartões amarelos em uma mesma partida?;
+Nada;
+E expulso;
+Pode receber mais cartões amarelos;
+Recebe um cartão vermelho e é expulso;
+Recebe um cartão vermelho e é expulso
+|
